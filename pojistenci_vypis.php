@@ -15,7 +15,7 @@ $popis = 'Výpis pojištěnců.';
 require('hlavicka.php');
 ?>
     <h2>Výpis pojištěnců</h2>
-<table class="table table-bordered">
+<table class="table table-bordered table-responsive">
     <tr>
         <th>Jméno</th>
         <th>Bydliště</th>
